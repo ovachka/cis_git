@@ -1,1 +1,3 @@
- "GIT_Project\nOlga Cheremnykh\nGroup 242" 
+ GIT_Project
+ Olga Cheremnykh
+ Group 242
