@@ -1,1 +1,1 @@
--e "GIT_Project\nОльга Черемных\nГруппа ББИ242" 
+ "GIT_Project\nOlga Cheremnykh\nGroup 242" 

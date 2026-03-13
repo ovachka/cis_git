@@ -1,2 +1,2 @@
-"print('работает!')" 
-"print('снова работает!')" 
+"print('Hello!')" 
+"print('Hello again!')" 
